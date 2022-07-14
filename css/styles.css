@@ -1,0 +1,186 @@
+/* ******** Tag Selectors****** */
+h1{
+  color:#fff;
+  font-family: 'Rubik', sans-serif;
+  text-decoration: Bold;
+  margin-left: 19%;
+  font-size: 60px;
+  padding: 40px 10px 10px 0;
+  margin-top: 5rem;
+}
+
+h3{
+  font-family: 'Rubik', sans-serif;
+  margin-top: 20px;
+}
+
+h2{
+  font-family: 'Rubik', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+p{
+  color:#8f8f8f;
+  padding:5px 10px;
+}
+/* ******** IDs Selectors****** */
+
+#title{
+  background-color: #ff4c68;
+  position: relative;
+}
+
+#features{
+  padding: 10% 15%;
+  position: relative;
+  background-color: #fff;
+}
+
+#testimonials{
+  text-align: center;
+  background-color:#ef8172;
+  color:#fff;
+  font-family: 'Rubik', sans-serif;
+  position: relative;
+}
+
+#press{
+  background-color:#ef8172;
+  text-align: center;
+  position: relative;
+}
+
+#pricing{
+  padding:100px;
+  text-align: center;
+  position: relative;
+}
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 15%;
+  position: relative;
+}
+
+#footer{
+  text-align: center;
+  padding: 5% 30% 1% 30%;
+  position: relative;
+}
+
+/* ******** Class Selectors****** */
+/* Navbar Sextion */
+.logo-class{
+  font-family: 'Ubuntu', sans-serif;;
+  color: #fff;
+  text-decoration: Bold;
+  font-size: 30px;
+  padding:5px 5px 5px 15px;
+  margin-left: 10%;
+}
+
+.nav-link{
+  padding:5px;
+  color: #fff;
+  margin-left: 60px;
+  font-family: 'Montserrat-Thin', sans-serif;
+}
+
+/*Title Section*/
+
+.title-class{
+  max-height: 30rem;
+  max-width: 100%;
+}
+
+.DownloadApple{
+  font-family: "Montserrat";
+  padding: 5px 10px;
+  margin-left: 19%;
+  font-size: 20px;
+}
+
+.DownloadGoogle{
+  font-family: "Montserrat";
+  padding: 5px 10px;
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.iphone{
+  transform: rotate(25deg);
+  height: 60%;
+  margin-right: 10%;
+  padding-top: 2rem 1rem;
+  margin-top: 4rem;
+  margin-left: 5rem;
+}
+
+/* Features Section */
+
+.feature-box{
+  text-align: center;
+  padding: 10px 15px;
+}
+
+.icon{
+  color:#ef8172;
+}
+
+.icon:hover{
+  color: #ff4c68;
+}
+
+/* Testimonial Section */
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin:20px;
+}
+
+.press-image{
+  width:20%;
+  margin-bottom: 3rem;
+  padding:1rem;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+/* Pricing Section */
+
+.pricing-class{
+  padding: 3% 2%;
+}
+
+/* Call of Action Section */
+
+  .cta-class{
+    color: #fff;
+    font-size: 50px;
+    padding: 10px 30px 20px 30px;
+    margin-bottom: 1rem;
+  }
+
+  .cta-Apple{
+    font-family: "Montserrat";
+    padding: 5px 10px;
+    font-size: 20px;
+  }
+
+  .cta-Google{
+    font-family: "Montserrat";
+    padding: 5px 10px;
+    font-size: 20px;
+    margin-left: 10px;
+  }
+
+/* Footer Section */
+
+.footer-icon{
+  padding: 5px;
+}
